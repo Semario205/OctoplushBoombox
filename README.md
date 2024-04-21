@@ -8,6 +8,7 @@ Boombox music replaced to Underwater Neon, Flop to It, Smoke and Mirrors, Ride o
 
 # Install Without Thunderstore
 
-If you have installed BepInEx, download the .dll file and the music file and add them to your plugins folder.
+If you have installed BepInEx, go to releases and download the .dll file and the music file and add them to your plugins folder.
+Unfortunately the asset bundle was too big to put in here directly.
 
 If you have not installed BepInEx, check out this video: https://www.youtube.com/watch?v=eXA60ZWMI4M

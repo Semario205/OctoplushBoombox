@@ -1,0 +1,7 @@
+{
+    "name": "Splatoon 3 Octoplush Boombox",
+    "version_number": "1.0.0",
+    "description": "Boombox songs are replaced with Octoplush's songs",
+    "website_url": "https://github.com/Semario205/OctoplushBoombox",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
